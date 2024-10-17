@@ -1,4 +1,9 @@
-//this static, but works with numbers higher than 7
+/*
+* Done by:
+* Student Name: Ivan Rudiy
+* Student Group: 123
+*Christmas_Tree
+*/
 #include <iostream>
 #include <vector>
 #include <cstdlib>
